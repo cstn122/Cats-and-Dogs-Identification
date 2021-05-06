@@ -9,7 +9,7 @@
 
 ### 三、實驗結果
 初始訓練資料：貓狗各1001筆，測試資料：貓狗各400筆，共2802筆。  
-藍色數線為accuracy，橘色數線為loss。可以看出已有overfitting現象：  
+藍色數線為accuracy，橘色數線為loss、上圖為training，下圖為testing。可以看出已有overfitting現象：  
 ![CNN網路](https://i.imgur.com/BHzfLHb.png)  
 因應overfitting的現象，在Dense層前加了Dropout層卻仍無太大改善：  
 ![CNN網路+Dropout](https://i.imgur.com/u8EvvaE.png)  
