@@ -1,6 +1,5 @@
 # Cats-and-Dogs-Identification
-## 深度學習Tensorflow 期末專題報告
-1072B0006 謝可安
+## 深度學習Tensorflow 期末專題
 
 ### 一、摘要：訓練CNN神經網路辨識貓和狗的圖像。
 
